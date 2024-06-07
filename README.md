@@ -6,7 +6,9 @@ The env file contains the API key.
 # Summary of the code
 The API keys are fetched and relevant parameters are set to train our model.
 The database connection string is provided with our training dataset along with the username and password 
-A connection is establised and training is begun. 
+A connection is established and training is begun. 
 
+
+*Note: The following model is a work in progress, more updates will follow 
 
 
